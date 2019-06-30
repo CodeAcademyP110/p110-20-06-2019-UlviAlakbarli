@@ -1,0 +1,11 @@
+C:\Users\Ulvi\source\repos\Win F Disconnected\Win F Disconnected\bin\Debug\Win F Disconnected.exe.config
+C:\Users\Ulvi\source\repos\Win F Disconnected\Win F Disconnected\bin\Debug\Win F Disconnected.exe
+C:\Users\Ulvi\source\repos\Win F Disconnected\Win F Disconnected\bin\Debug\Win F Disconnected.pdb
+C:\Users\Ulvi\source\repos\Win F Disconnected\Win F Disconnected\obj\Debug\Win F Disconnected.csprojAssemblyReference.cache
+C:\Users\Ulvi\source\repos\Win F Disconnected\Win F Disconnected\obj\Debug\Win_F_Disconnected.Login.resources
+C:\Users\Ulvi\source\repos\Win F Disconnected\Win F Disconnected\obj\Debug\Win_F_Disconnected.Properties.Resources.resources
+C:\Users\Ulvi\source\repos\Win F Disconnected\Win F Disconnected\obj\Debug\Win F Disconnected.csproj.GenerateResource.cache
+C:\Users\Ulvi\source\repos\Win F Disconnected\Win F Disconnected\obj\Debug\Win F Disconnected.csproj.CoreCompileInputs.cache
+C:\Users\Ulvi\source\repos\Win F Disconnected\Win F Disconnected\obj\Debug\Win F Disconnected.exe
+C:\Users\Ulvi\source\repos\Win F Disconnected\Win F Disconnected\obj\Debug\Win F Disconnected.pdb
+C:\Users\Ulvi\source\repos\Win F Disconnected\Win F Disconnected\obj\Debug\Win_F_Disconnected.NewPosition.resources
